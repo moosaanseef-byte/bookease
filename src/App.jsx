@@ -3,7 +3,7 @@ import "react-toastify/dist/ReactToastify.css";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import services from "./data/services";
-import ServiceList from "./components/ServiceList";
+import ServiceList from "./components/ServiceListe";
 import BookingForm from "./components/BookingForm";
 import BookingList from "./components/BookingList";
 import Footer from "./components/Footer";
