@@ -61,7 +61,7 @@ button, input, select {
 
 .logo span,
 .footer h2 span {
-  color: var(--primary);
+  color: white;
 }
 
 .nav-links {
